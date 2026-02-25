@@ -1,6 +1,5 @@
-# Learning-Materials-for-New
+# Learning-Materials-for-New-Developers
 
-资源示例（1）
 
 ## 关于我
 - 新手开发者
