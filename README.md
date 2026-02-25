@@ -1,4 +1,4 @@
-# Learning-Materials-for-New-# Hello World
+# Learning-Materials-for-New
 
 资源示例（1）
 
